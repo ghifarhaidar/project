@@ -1,0 +1,200 @@
+{"ItemID": '1001', "Name": "Smartphone", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Mobile Phones", "SubcategoryID": '3001'}
+{"ItemID": '1002', "Name": "Laptop", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Computers", "SubcategoryID": '3002'}
+{"ItemID": '1003', "Name": "Smart TV", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Televisions", "SubcategoryID": '3003'}
+{"ItemID": '1004', "Name": "Wireless Earbuds", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Audio", "SubcategoryID": '3004'}
+{"ItemID": '1005', "Name": "Gaming Console", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Gaming", "SubcategoryID": '3005'}
+{"ItemID": '1006', "Name": "DSLR Camera", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Cameras", "SubcategoryID": '3006'}
+{"ItemID": '1007', "Name": "Bluetooth Speaker", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Audio", "SubcategoryID": '3004'}
+{"ItemID": '1008', "Name": "Tablet", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Mobile Devices", "SubcategoryID": '3007'}
+{"ItemID": '1009', "Name": "Smartwatch", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Wearables", "SubcategoryID": '3008'}
+{"ItemID": '1010', "Name": "Home Theater System", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Audio", "SubcategoryID": '3004'}
+{"ItemID": '1011', "Name": "External Hard Drive", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Storage", "SubcategoryID": '3009'}
+{"ItemID": '1012', "Name": "E-Reader", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Mobile Devices", "SubcategoryID": '3007'}
+{"ItemID": '1013', "Name": "Action Camera", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Cameras", "SubcategoryID": '3006'}
+{"ItemID": '1014', "Name": "Wireless Mouse", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Computer Accessories", "SubcategoryID": '3010'}
+{"ItemID": '1015', "Name": "USB-C Hub", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Computer Accessories", "SubcategoryID": '3010'}
+{"ItemID": '1016', "Name": "Smart Light Bulb", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Smart Home", "SubcategoryID": '3011'}
+{"ItemID": '1017', "Name": "Portable Power Bank", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Mobile Accessories", "SubcategoryID": '3012'}
+{"ItemID": '1018', "Name": "Fitness Tracker", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Wearables", "SubcategoryID": '3008'}
+{"ItemID": '1019', "Name": "Drone", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Drones & UAVs", "SubcategoryID": '3013'}
+{"ItemID": '1020', "Name": "VR Headset", "Category": "Electronics", "CategoryID": '2001', "Subcategory": "Gaming", "SubcategoryID": '3005'}
+{"ItemID": '1021', "Name": "Refrigerator", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1022', "Name": "Washing Machine", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Laundry", "SubcategoryID": '3015'}
+{"ItemID": '1023', "Name": "Microwave Oven", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1024', "Name": "Vacuum Cleaner", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Cleaning", "SubcategoryID": '3016'}
+{"ItemID": '1025', "Name": "Air Conditioner", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Climate Control", "SubcategoryID": '3017'}
+{"ItemID": '1026', "Name": "Water Purifier", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1027', "Name": "Dishwasher", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1028', "Name": "Coffee Maker", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1029', "Name": "Electric Kettle", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1030', "Name": "Toaster", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1031', "Name": "Hair Dryer", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Personal Care", "SubcategoryID": '3018'}
+{"ItemID": '1032', "Name": "Iron", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Laundry", "SubcategoryID": '3015'}
+{"ItemID": '1033', "Name": "Food Processor", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1034', "Name": "Electric Grill", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1035', "Name": "Blender", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1036', "Name": "Humidifier", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Climate Control", "SubcategoryID": '3017'}
+{"ItemID": '1037', "Name": "Dehumidifier", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Climate Control", "SubcategoryID": '3017'}
+{"ItemID": '1038', "Name": "Rice Cooker", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1039', "Name": "Slow Cooker", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1040', "Name": "Stand Mixer", "Category": "Home Appliances", "CategoryID": '2002', "Subcategory": "Kitchen Appliances", "SubcategoryID": '3014'}
+{"ItemID": '1041', "Name": "T-shirt", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1042', "Name": "Jeans", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1043', "Name": "Sneakers", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Footwear", "SubcategoryID": '3020'}
+{"ItemID": '1044', "Name": "Dress", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1045', "Name": "Sunglasses", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1046', "Name": "Watch", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1047', "Name": "Jacket", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1048', "Name": "Handbag", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1049', "Name": "Boots", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Footwear", "SubcategoryID": '3020'}
+{"ItemID": '1050', "Name": "Hat", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1051', "Name": "Scarf", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1052', "Name": "Belt", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1053', "Name": "Blouse", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1054', "Name": "Sandals", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Footwear", "SubcategoryID": '3020'}
+{"ItemID": '1055', "Name": "Shorts", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1056', "Name": "Suit", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1057', "Name": "Tie", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Accessories", "SubcategoryID": '3021'}
+{"ItemID": '1058', "Name": "Dress Shoes", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Footwear", "SubcategoryID": '3020'}
+{"ItemID": '1059', "Name": "Sweater", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Clothing", "SubcategoryID": '3019'}
+{"ItemID": '1060', "Name": "Casual Shoes", "Category": "Fashion", "CategoryID": '2003', "Subcategory": "Footwear", "SubcategoryID": '3020'}
+{"ItemID": '1061', "Name": "Shampoo", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Hair Care", "SubcategoryID": '3022'}
+{"ItemID": '1062', "Name": "Conditioner", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Hair Care", "SubcategoryID": '3022'}
+{"ItemID": '1063', "Name": "Body Lotion", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Skin Care", "SubcategoryID": '3023'}
+{"ItemID": '1064', "Name": "Face Cream", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Skin Care", "SubcategoryID": '3023'}
+{"ItemID": '1065', "Name": "Perfume", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Fragrances", "SubcategoryID": '3024'}
+{"ItemID": '1066', "Name": "Deodorant", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Personal Hygiene", "SubcategoryID": '3025'}
+{"ItemID": '1067', "Name": "Lipstick", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Makeup", "SubcategoryID": '3026'}
+{"ItemID": '1068', "Name": "Mascara", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Makeup", "SubcategoryID": '3026'}
+{"ItemID": '1069', "Name": "Foundation", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Makeup", "SubcategoryID": '3026'}
+{"ItemID": '1070', "Name": "Nail Polish", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Makeup", "SubcategoryID": '3026'}
+{"ItemID": '1071', "Name": "Hair Spray", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Hair Care", "SubcategoryID": '3022'}
+{"ItemID": '1072', "Name": "Hair Gel", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Hair Care", "SubcategoryID": '3022'}
+{"ItemID": '1073', "Name": "Face Wash", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Skin Care", "SubcategoryID": '3023'}
+{"ItemID": '1074', "Name": "Sunscreen", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Skin Care", "SubcategoryID": '3023'}
+{"ItemID": '1075', "Name": "Hand Cream", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Skin Care", "SubcategoryID": '3023'}
+{"ItemID": '1076', "Name": "Body Wash", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Personal Hygiene", "SubcategoryID": '3025'}
+{"ItemID": '1077', "Name": "Toothpaste", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Oral Care", "SubcategoryID": '3027'}
+{"ItemID": '1078', "Name": "Mouthwash", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Oral Care", "SubcategoryID": '3027'}
+{"ItemID": '1079', "Name": "Shaving Cream", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Shaving & Grooming", "SubcategoryID": '3028'}
+{"ItemID": '1080', "Name": "Razor", "Category": "Beauty and Personal Care", "CategoryID": '2004', "Subcategory": "Shaving & Grooming", "SubcategoryID": '3028'}
+{"ItemID": '1081', "Name": "Yoga Mat", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Fitness Equipment", "SubcategoryID": '3029'}
+{"ItemID": '1082', "Name": "Tennis Racket", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Tennis", "SubcategoryID": '3030'}
+{"ItemID": '1083', "Name": "Basketball", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Basketball", "SubcategoryID": '3031'}
+{"ItemID": '1084', "Name": "Running Shoes", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Footwear", "SubcategoryID": '3032'}
+{"ItemID": '1085', "Name": "Camping Tent", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Camping", "SubcategoryID": '3033'}
+{"ItemID": '1086', "Name": "Hiking Backpack", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Camping", "SubcategoryID": '3033'}
+{"ItemID": '1087', "Name": "Dumbbells", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Fitness Equipment", "SubcategoryID": '3029'}
+{"ItemID": '1088', "Name": "Fishing Rod", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Fishing", "SubcategoryID": '3034'}
+{"ItemID": '1089', "Name": "Cycling Helmet", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Cycling", "SubcategoryID": '3035'}
+{"ItemID": '1090', "Name": "Football", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Football", "SubcategoryID": '3036'}
+{"ItemID": '1091', "Name": "Soccer Ball", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Soccer", "SubcategoryID": '3037'}
+{"ItemID": '1092', "Name": "Golf Clubs", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Golf", "SubcategoryID": '3038'}
+{"ItemID": '1093', "Name": "Kayak", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Water Sports", "SubcategoryID": '3039'}
+{"ItemID": '1094', "Name": "Climbing Rope", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Climbing", "SubcategoryID": '3040'}
+{"ItemID": '1095', "Name": "Surfboard", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Water Sports", "SubcategoryID": '3039'}
+{"ItemID": '1096', "Name": "Baseball Glove", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Baseball", "SubcategoryID": '3041'}
+{"ItemID": '1097', "Name": "Boxing Gloves", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Boxing", "SubcategoryID": '3042'}
+{"ItemID": '1098', "Name": "Ski Goggles", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Winter Sports", "SubcategoryID": '3043'}
+{"ItemID": '1099', "Name": "Snowboard", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Winter Sports", "SubcategoryID": '3043'}
+{"ItemID": '1100', "Name": "Badminton Set", "Category": "Sports and Outdoors", "CategoryID": '2005', "Subcategory": "Badminton", "SubcategoryID": '3044'}
+{"ItemID": '1101', "Name": "Car Battery", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Batteries", "SubcategoryID": '3045'}
+{"ItemID": '1102', "Name": "Engine Oil", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Fluids", "SubcategoryID": '3046'}
+{"ItemID": '1103', "Name": "Tire Pressure Gauge", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Tools", "SubcategoryID": '3047'}
+{"ItemID": '1104', "Name": "Brake Pads", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Brakes", "SubcategoryID": '3048'}
+{"ItemID": '1105', "Name": "Headlight Bulbs", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Lighting", "SubcategoryID": '3049'}
+{"ItemID": '1106', "Name": "Air Filter", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Filters", "SubcategoryID": '3050'}
+{"ItemID": '1107', "Name": "Wiper Blades", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Wipers", "SubcategoryID": '3051'}
+{"ItemID": '1108', "Name": "Car Cover", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Accessories", "SubcategoryID": '3052'}
+{"ItemID": '1109', "Name": "Fuel Injector Cleaner", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Additives", "SubcategoryID": '3053'}
+{"ItemID": '1110', "Name": "GPS Navigation System", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Electronics", "SubcategoryID": '3054'}
+{"ItemID": '1111', "Name": "Car Seat Covers", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Interior", "SubcategoryID": '3055'}
+{"ItemID": '1112', "Name": "Portable Jump Starter", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Tools", "SubcategoryID": '3047'}
+{"ItemID": '1113', "Name": "Dashboard Camera", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Electronics", "SubcategoryID": '3054'}
+{"ItemID": '1114', "Name": "Tire Repair Kit", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Tools", "SubcategoryID": '3047'}
+{"ItemID": '1115', "Name": "Windshield Washer Fluid", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Fluids", "SubcategoryID": '3046'}
+{"ItemID": '1116', "Name": "Car Vacuum Cleaner", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Interior", "SubcategoryID": '3055'}
+{"ItemID": '1117', "Name": "Tow Strap", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Accessories", "SubcategoryID": '3052'}
+{"ItemID": '1118', "Name": "Radiator Cap", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Cooling", "SubcategoryID": '3056'}
+{"ItemID": '1119', "Name": "Shock Absorbers", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Suspension", "SubcategoryID": '3057'}
+{"ItemID": '1120', "Name": "Fuel Pump", "Category": "Automotive", "CategoryID": '2006', "Subcategory": "Fuel System", "SubcategoryID": '3058'}
+{"ItemID": '1121', "Name": "Fiction Novel", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1122', "Name": "Science Textbook", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1123', "Name": "Cookbook", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1124', "Name": "Children's Picture Book", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1125', "Name": "Notebook", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1126', "Name": "Ballpoint Pen", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1127', "Name": "Highlighter Set", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1128', "Name": "Binder", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1129', "Name": "Desk Calendar", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1130', "Name": "Planner", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1131', "Name": "Journal", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Stationery", "SubcategoryID": '3066'}
+{"ItemID": '1132', "Name": "Sketchbook", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Art Supplies", "SubcategoryID": '3067'}
+{"ItemID": '1133', "Name": "Watercolor Set", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Art Supplies", "SubcategoryID": '3067'}
+{"ItemID": '1134', "Name": "Erasable Markers", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Art Supplies", "SubcategoryID": '3067'}
+{"ItemID": '1135', "Name": "Postage Stamps", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Office Supplies", "SubcategoryID": '3068'}
+{"ItemID": '1136', "Name": "Office Desk Organizer", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Office Supplies", "SubcategoryID": '3068'}
+{"ItemID": '1137', "Name": "Sticky Notes", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Office Supplies", "SubcategoryID": '3068'}
+{"ItemID": '1138', "Name": "Index Cards", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Office Supplies", "SubcategoryID": '3068'}
+{"ItemID": '1139', "Name": "Book Light", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1140', "Name": "Reading Glasses", "Category": "Books and Stationery", "CategoryID": '2007', "Subcategory": "Books", "SubcategoryID": '3065'}
+{"ItemID": '1141', "Name": "Organic Apples", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Fruits and Vegetables", "SubcategoryID": '3070'}
+{"ItemID": '1142', "Name": "Almonds", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Nuts and Seeds", "SubcategoryID": '3071'}
+{"ItemID": '1143', "Name": "Whole Grain Bread", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Bakery", "SubcategoryID": '3072'}
+{"ItemID": '1144', "Name": "Olive Oil", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Oils and Vinegars", "SubcategoryID": '3073'}
+{"ItemID": '1145', "Name": "Gourmet Coffee", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Beverages", "SubcategoryID": '3074'}
+{"ItemID": '1146', "Name": "Spaghetti", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Pasta and Grains", "SubcategoryID": '3075'}
+{"ItemID": '1147', "Name": "Organic Honey", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Sweeteners", "SubcategoryID": '3076'}
+{"ItemID": '1148', "Name": "Cheddar Cheese", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Dairy", "SubcategoryID": '3077'}
+{"ItemID": '1149', "Name": "Sea Salt", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Seasonings", "SubcategoryID": '3078'}
+{"ItemID": '1150', "Name": "Canned Tomatoes", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Canned Goods", "SubcategoryID": '3079'}
+{"ItemID": '1151', "Name": "Whole Wheat Flour", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Bakery", "SubcategoryID": '3072'}
+{"ItemID": '1152', "Name": "Organic Almond Milk", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Dairy", "SubcategoryID": '3077'}
+{"ItemID": '1153', "Name": "Green Tea", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Beverages", "SubcategoryID": '3074'}
+{"ItemID": '1154', "Name": "Quinoa", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Pasta and Grains", "SubcategoryID": '3075'}
+{"ItemID": '1155', "Name": "Italian Marinara Sauce", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Sauces and Condiments", "SubcategoryID": '3080'}
+{"ItemID": '1156', "Name": "Dried Apricots", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Dried Fruits", "SubcategoryID": '3081'}
+{"ItemID": '1157', "Name": "Peanut Butter", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Spreads", "SubcategoryID": '3082'}
+{"ItemID": '1158', "Name": "Artisan Crackers", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Snacks", "SubcategoryID": '3083'}
+{"ItemID": '1159', "Name": "Organic Chicken Broth", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Soups and Broths", "SubcategoryID": '3084'}
+{"ItemID": '1160', "Name": "Dark Chocolate", "Category": "Grocery and Gourmet Food", "CategoryID": '2008', "Subcategory": "Confections", "SubcategoryID": '3085'}
+{"ItemID": '1161', "Name": "Multivitamins", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1162', "Name": "Protein Powder", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1163', "Name": "Omega-3 Fish Oil", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1164', "Name": "Yoga Mat", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Fitness Equipment", "SubcategoryID": '3087'}
+{"ItemID": '1165', "Name": "Dumbbells", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Fitness Equipment", "SubcategoryID": '3087'}
+{"ItemID": '1166', "Name": "Resistance Bands", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Fitness Equipment", "SubcategoryID": '3087'}
+{"ItemID": '1167', "Name": "Herbal Tea", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Natural Remedies", "SubcategoryID": '3088'}
+{"ItemID": '1168', "Name": "Epsom Salt", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Natural Remedies", "SubcategoryID": '3088'}
+{"ItemID": '1169', "Name": "Essential Oils Set", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Natural Remedies", "SubcategoryID": '3088'}
+{"ItemID": '1170', "Name": "Foam Roller", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Recovery Tools", "SubcategoryID": '3089'}
+{"ItemID": '1171', "Name": "Stretching Strap", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Recovery Tools", "SubcategoryID": '3089'}
+{"ItemID": '1172', "Name": "Massage Gun", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Recovery Tools", "SubcategoryID": '3089'}
+{"ItemID": '1173', "Name": "Calcium Tablets", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1174', "Name": "Vitamin C Gummies", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1175', "Name": "Treadmill", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Fitness Equipment", "SubcategoryID": '3087'}
+{"ItemID": '1176', "Name": "Yoga Blocks", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Fitness Equipment", "SubcategoryID": '3087'}
+{"ItemID": '1177', "Name": "Herbal Supplements", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Vitamins and Supplements", "SubcategoryID": '3086'}
+{"ItemID": '1178', "Name": "Aromatherapy Diffuser", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Natural Remedies", "SubcategoryID": '3088'}
+{"ItemID": '1179', "Name": "Wellness Journal", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Mental Health", "SubcategoryID": '3090'}
+{"ItemID": '1180', "Name": "Meditation Cushion", "Category": "Health and Wellness", "CategoryID": '2009', "Subcategory": "Mental Health", "SubcategoryID": '3090'}
+{"ItemID": '1181', "Name": "Building Blocks Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Building Toys", "SubcategoryID": '3091'}
+{"ItemID": '1182', "Name": "Toy Train Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Building Toys", "SubcategoryID": '3091'}
+{"ItemID": '1183', "Name": "Dollhouse", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Dolls and Stuffed Animals", "SubcategoryID": '3092'}
+{"ItemID": '1184', "Name": "Stuffed Bear", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Dolls and Stuffed Animals", "SubcategoryID": '3092'}
+{"ItemID": '1185', "Name": "Action Figure Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Action Figures", "SubcategoryID": '3093'}
+{"ItemID": '1186', "Name": "Race Car Track Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Vehicles and Remote Control", "SubcategoryID": '3094'}
+{"ItemID": '1187', "Name": "Remote Control Car", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Vehicles and Remote Control", "SubcategoryID": '3094'}
+{"ItemID": '1188', "Name": "Puzzle Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Puzzles and Games", "SubcategoryID": '3095'}
+{"ItemID": '1189', "Name": "Board Game", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Puzzles and Games", "SubcategoryID": '3095'}
+{"ItemID": '1190', "Name": "Educational Toy", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Educational Toys", "SubcategoryID": '3096'}
+{"ItemID": '1191', "Name": "Interactive Learning Game", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Educational Toys", "SubcategoryID": '3096'}
+{"ItemID": '1192', "Name": "Wooden Train Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Building Toys", "SubcategoryID": '3091'}
+{"ItemID": '1193', "Name": "Baby Doll", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Dolls and Stuffed Animals", "SubcategoryID": '3092'}
+{"ItemID": '1194', "Name": "Superhero Action Figures", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Action Figures", "SubcategoryID": '3093'}
+{"ItemID": '1195', "Name": "Toy Helicopter", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Vehicles and Remote Control", "SubcategoryID": '3094'}
+{"ItemID": '1196', "Name": "Jigsaw Puzzle", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Puzzles and Games", "SubcategoryID": '3095'}
+{"ItemID": '1197', "Name": "Montessori Toy Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Educational Toys", "SubcategoryID": '3096'}
+{"ItemID": '1198', "Name": "Lego Building Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Building Toys", "SubcategoryID": '3091'}
+{"ItemID": '1199', "Name": "Plush Elephant", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Dolls and Stuffed Animals", "SubcategoryID": '3092'}
+{"ItemID": '1200', "Name": "Diecast Car Set", "Category": "Toys and Games", "CategoryID": '2010', "Subcategory": "Vehicles and Remote Control", "SubcategoryID": '3094'}

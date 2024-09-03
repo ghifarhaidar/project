@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/hiast/proj/mlruns/0/1df7f26fa1804692b4d401100d403ae3/artifacts
+end_time: 1725231309605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df7f26fa1804692b4d401100d403ae3
+run_name: magnificent-ram-680
+run_uuid: 1df7f26fa1804692b4d401100d403ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725230270848
+status: 3
+tags: []
+user_id: Ghifo

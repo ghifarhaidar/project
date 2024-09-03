@@ -1,0 +1,184 @@
+2024-08-06 12:16:31 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 12:24:07 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\mail\mail.php on line 83
+2024-08-06 12:32:21 - PHP Warning:  Array to string conversion in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:03:50 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:04:25 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:06:43 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:10:21 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:11:15 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:12:27 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 21:14:11 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:35:47 - PHP Warning:  Array to string conversion in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:40:41 - PHP Warning:  Array to string conversion in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:45:15 - PHP Warning:  Array to string conversion in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:45:18 - PHP Warning:  Array to string conversion in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:56:51 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:57:01 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:57:10 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:57:24 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-06 22:58:01 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 27
+2024-08-25 21:06:54 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "item_id" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 57
+2024-08-25 21:06:55 - PHP Warning:  Undefined array key "timestamp" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 59
+2024-08-25 23:10:23 - PHP Warning:  mysqli::query(): (42S02/1146): Table 'opencart.oc_oc_product_to_category' doesn't exist in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 0:18:54 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\controller\extension\module\suggests.php on line 33
+2024-08-26 0:19:30 - PHP Warning:  Attempt to read property "rows" on array in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 50
+2024-08-26 0:19:30 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\controller\extension\module\suggests.php on line 33
+2024-08-26 11:50:04 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:50:04 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:50:19 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:50:19 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:50:24 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:50:24 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:51:18 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:51:18 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:51:35 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 11:51:35 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:08 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:08 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:15 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:15 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:25 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:39:25 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:30 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:30 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:37 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:37 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:44 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:44 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:46 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:49:46 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:53:13 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:53:13 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:59:46 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 20:59:46 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:05:42 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:05:42 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:06:02 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:06:02 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:06:36 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:06:36 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-26 21:22:39 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id, :product_id, (SELECT category_id FROM oc_product_to_category WHERE ...' at line 2 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:23:42 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id, :product_id, 0, :interaction_timestamp, :interaction_type)' at line 2 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:23:43 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id, :product_id, 0, :interaction_timestamp, :interaction_type)' at line 2 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:23:46 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id, :product_id, 0, :interaction_timestamp, :interaction_type)' at line 2 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:25:01 - PHP Warning:  mysqli::query(): (42S02/1146): Table 'opencart.oc_oc_product_to_category' doesn't exist in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:25:51 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:25:53 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:25:54 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:26:23 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-08-26 21:26:23', 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:26:31 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-08-26 21:26:31', 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:26:36 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-08-26 21:26:36', 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:26:44 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '21:26:44', 'view')' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:28:22 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''user_id', 'product_id', 'category_id', 'interaction_timestamp', 'interaction...' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:28:48 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''oc_user_product_interactions' ('user_id', 'product_id', 'category_id', 'inte...' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:29:18 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''oc_user_product_interactions' ('user_id', 'product_id', 'category_id', 'inte...' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:30:12 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''oc_user_product_interactions' ('user_id', 'product_id', 'category_id', 'inte...' at line 1 in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:31:13 - PHP Warning:  mysqli::query(): (42S02/1146): Table 'opencart.oc_oc_product_to_category' doesn't exist in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:32:17 - PHP Warning:  mysqli::query(): (42S02/1146): Table 'opencart.oc_oc_product_to_category' doesn't exist in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:33:12 - PHP Warning:  mysqli::query(): (23000/1452): Cannot add or update a child row: a foreign key constraint fails (`opencart`.`oc_user_product_interactions`, CONSTRAINT `oc_user_product_interactions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `oc_customer` (`customer_id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:36:16 - PHP Warning:  mysqli::query(): (23000/1452): Cannot add or update a child row: a foreign key constraint fails (`opencart`.`oc_user_product_interactions`, CONSTRAINT `oc_user_product_interactions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `oc_customer` (`customer_id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-26 21:41:33 - PHP Warning:  mysqli::query(): (42S02/1146): Table 'opencart.oc_oc_product_to_category' doesn't exist in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\db\mysqli.php on line 25
+2024-08-27 14:02:26 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:02:26 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:02:36 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:02:36 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:16:19 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:16:19 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:16:20 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:16:20 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:55:20 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-27 14:55:20 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:49:19 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:49:19 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:49:27 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:49:27 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:40 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:40 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:45 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:45 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:50 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:50 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:53 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:53 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:56 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:50:56 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:51:10 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:51:10 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:51:11 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-29 22:51:11 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:10:32 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:10:32 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:10:49 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:10:49 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:15:28 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:15:28 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:18:18 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 13:18:18 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 39
+2024-08-31 19:25:20 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-08-31 19:25:20 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-08-31 19:26:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\mail\mail.php on line 83
+2024-08-31 19:26:06 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-08-31 19:26:06 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-09-01 8:44:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\mail\mail.php on line 83
+2024-09-01 8:44:55 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\hiast\proj\opencart-3.0.4.0\upload\system\library\mail\mail.php on line 83
+2024-09-01 8:46:54 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-09-01 8:46:54 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-09-04 6:49:18 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-09-04 6:49:18 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 24
+2024-09-01 11:19:03 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 25
+2024-09-01 11:19:03 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 25
+2024-09-01 11:19:10 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 25
+2024-09-01 11:19:10 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 25
+2024-09-01 11:20:47 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 28
+2024-09-01 11:20:47 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 28
+2024-09-01 11:21:16 - PHP Warning:  Trying to access array offset on value of type null in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 28
+2024-09-01 11:21:16 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 28
+2024-09-03 14:51:43 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:51:43 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:06 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:06 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:06 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:06 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:44 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:44 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:55 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:53:55 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:11 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:11 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:17 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:17 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:27 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:27 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:38 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:56:38 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:57:51 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:57:51 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:58:09 - PHP Warning:  Undefined array key "predictions" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 14:58:09 - PHP Warning:  foreach() argument must be of type array|object, null given in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 29
+2024-09-03 15:01:08 - PHP Warning:  Undefined array key "error_code" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 23
+2024-09-03 15:01:13 - PHP Warning:  Undefined array key "error_code" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 23
+2024-09-03 15:01:16 - PHP Warning:  Undefined array key "error_code" in D:\hiast\proj\opencart-3.0.4.0\upload\catalog\model\extension\module\suggests.php on line 23

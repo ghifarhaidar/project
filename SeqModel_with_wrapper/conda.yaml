@@ -1,0 +1,11 @@
+channels:
+- defaults
+dependencies:
+- python=3.8
+- pip
+- pip:
+  - mlflow
+  - pandas
+  - microsoft-recommenders
+  - numpy
+name: sli-rec-env

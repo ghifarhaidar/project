@@ -1,0 +1,37 @@
+flavors:
+  python_function:
+    artifacts:
+      best_model_data_dir:
+        path: artifacts\best_model.data-00000-of-00001
+        uri: ml\resources\model/best_model.data-00000-of-00001
+      best_model_index_dir:
+        path: artifacts\best_model.index
+        uri: ml\resources\model/best_model.index
+      best_model_meta_dir:
+        path: artifacts\best_model.meta
+        uri: ml\resources\model/best_model.meta
+      cate_vocab_dir:
+        path: artifacts\category_vocab.pkl
+        uri: ml\resources\category_vocab.pkl
+      item_vocab_dir:
+        path: artifacts\item_vocab.pkl
+        uri: ml\resources\item_vocab.pkl
+      user_vocab_dir:
+        path: artifacts\user_vocab.pkl
+        uri: ml\resources\user_vocab.pkl
+      yaml_file:
+        path: artifacts\sli_rec.yaml
+        uri: ml/config/sli_rec.yaml
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.8
+    streamable: false
+mlflow_version: 2.15.1
+model_size_bytes: 2286724
+model_uuid: a5df57d1deeb4b9b892bec9bb18e1226
+utc_time_created: '2024-09-02 01:09:58.398665'
